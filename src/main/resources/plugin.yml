@@ -1,0 +1,5 @@
+name: Man10Blacklist
+version: ${project.version}
+main: blacklist.man10.Man10Blacklist
+commands:
+  blacklist:

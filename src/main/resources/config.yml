@@ -1,0 +1,7 @@
+config:
+  BlackListPlayerJoinMessage: '§4§l§nブラックリストの人がサーバーに接続しましたID:'
+
+  BlackListPlayerQuitMessage: '§4§l§nブラックリストの人がサーバーから切断しましたID:'
+
+  BlacklistID:
+  -
